@@ -1,4 +1,4 @@
-Hi 👋 I'am Harsha T G
+# Hi 👋 I'am Harsha T G
 currently i am working on some react, nodejs and javascript project
 
 
