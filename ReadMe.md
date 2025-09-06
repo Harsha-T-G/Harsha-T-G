@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi 👋 I'am Harsha T G<br>currently i am working on some react, nodejs and javascript project
+Hi 👋 I'am Harsha T G
+currently i am working on some react, nodejs and javascript project
 
 
 ## 🌐 Socials:
